@@ -33,7 +33,7 @@ In order to do this right, please follow very carefully these steps:
 2. Select first the .NET runtime error from top (using default ordering)
 3. Copy the large bottom text and send it to our mail or here on forum. Note: make sure that the info is from the Application: SpaceEngineers.exe
 
-**The log file should be from the game session where you've encountered the bug. If you start the game again, the log will be overwritten.
+**Warning:** The log file should be from the game session where you've encountered the bug. If you start the game again, the log will be overwritten.
 
 There is also alternative way in case you cannot find your log file:
 
