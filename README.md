@@ -8,3 +8,6 @@ Please, read the informations how to report bugs efficiently [**here**](https://
 ### Known issues
 
 List can be found [**here**](https://github.com/MiChAeLoKGB/SpaceEngineers/blob/master/known_issues.md)
+
+
+If you did not find bug in other issues posted or in our "Known issues list", then go ahead and post it [**here**](https://github.com/MiChAeLoKGB/SpaceEngineers/issues)
