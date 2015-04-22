@@ -45,5 +45,6 @@ List:
 - Dying after taking off helmet in oxygenated environment
 - Rotor has a gap between the block and the rotor top part
 
+Also, please check this list if your issue is not already there: https://github.com/MiChAeLoKGB/SpaceEngineers/labels/Bug
 
 **Warning**: this list contains only the biggest problems we know about, so please be merciful when reading it (and judging it :))
