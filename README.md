@@ -11,6 +11,3 @@ List can be found [**here**](https://github.com/MiChAeLoKGB/SpaceEngineers/blob/
 
 
 If you did not find your issue in other issues posted, or in our *Known issues list*, then go ahead and post it [**here**](https://github.com/MiChAeLoKGB/SpaceEngineers/issues)
-
-
-taľšraasdasasadsasd
